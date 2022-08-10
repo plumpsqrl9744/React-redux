@@ -1,1 +1,4 @@
 7.31) Learn redux component provider, dispatch, useSelector
+
+8.6) action creater > action > dispatch > middleware > redux > store   >   component
+							       useSelector
