@@ -2,3 +2,6 @@
 
 8.6) action creater > action > dispatch > middleware > redux > store   >   component
 							       useSelector
+
+8.7) use redux-toolkit
+	coding => connect comment form, comment list and comment box
