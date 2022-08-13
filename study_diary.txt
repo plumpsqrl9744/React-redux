@@ -5,3 +5,6 @@
 
 8.7) use redux-toolkit
 	coding => connect comment form, comment list and comment box
+
+8.13) start week6_miniproject make repository
+
